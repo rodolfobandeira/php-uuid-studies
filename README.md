@@ -14,7 +14,7 @@ Examples using the library from https://github.com/ramsey/uuid
 
 ### Example 1:
 
-```
+```php
 <?php
 require 'vendor/autoload.php';
 
