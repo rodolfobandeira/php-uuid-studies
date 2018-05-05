@@ -1,11 +1,7 @@
 # php-uuid-studies
 Personal repository to make some experiments using UUID (all versions)
 
--
-
-Examples using the library from https://github.com/ramsey/uuid
-
--
+Examples using the library from [https://github.com/ramsey/uuid](https://github.com/ramsey/uuid)
 
 ### Installing
 
@@ -61,8 +57,6 @@ try {
 ```
 
 
--
-
 ### To do:
 
-- Test uuid with doctrine: https://github.com/ramsey/uuid-doctrine
+- Test uuid with doctrine: [https://github.com/ramsey/uuid-doctrine](https://github.com/ramsey/uuid-doctrine)
